@@ -1,6 +1,13 @@
 
 
+*****XFCE***
+
 
 <span font_desc="roboto mono 10" color="#efefef" weight="normal">%a %d %b</span><span font_desc="roboto mono 12" color="#efefef" weight="bold"> [%I:%M %p]</span>
 
+
+
+****Cinnamon****
+
+%e %b %Y  [%l:%M%p]
 
